@@ -40,7 +40,7 @@
   },
   "variables": {
     "templateBaseUrl": "https://raw.githubusercontent.com/mspnp/template-building-blocks/v1.0.0/",
-    "localRepoBaseUrl": "https://raw.githubusercontent.com/Azure/uk-official-three-tier-webapp/master/",
+    "localRepoBaseUrl": "https://github.com/vys99AZBuild/uk-official-three-tier-webapp",
     "operationalVirtualNetworkName": "azure-operational-vnet",
     "managementlVirtualNetworkName": "azure-mgmt-vnet",
     "buildingBlocks": {
